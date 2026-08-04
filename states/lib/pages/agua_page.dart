@@ -70,7 +70,7 @@ class _AguaPageState extends State<AguaPage> {
                     color: Colors.orange,
                     size: 70,
                   ),
-                  const SizedBox(height: 20),
+                  const SizedBox(height: 30),
                   Text(
                     "Parabéns! 🎉\nMeta de $dia atingida",
                     textAlign: TextAlign.center,
